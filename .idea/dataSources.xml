@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ss_yfmfdb" uuid="57043468-57f8-4c24-864f-508ed5417dd4">
+      <driver-ref>memsql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://svc-77351314-756d-4e74-8d7a-f7c8f63502f4-ddl.aws-virginia-2.svc.singlestore.com:3306/yfmfdb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
